@@ -7,7 +7,7 @@ I'm a **FullStack Web Developer** student based in **France**.
 
 - I'm currently a student at **ENI School**
 - My favorite languages are : ```.java```, ```.js``` 
-- I work daily with *VSCode*, *Jetbrains*, *Docker* and *Obsidian*
+- I work daily with *VSCode*, *Jetbrains* and *Obsidian*
 - I'm interested in **accessibility** and **open source**, to share my ♡ for the internet with everyone
 
 ##### MY WORK

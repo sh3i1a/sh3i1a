@@ -1,4 +1,4 @@
-<img align="left" src="img/looking-for-stardews-image-stardewvalley-356312.png" width=75/>
+<img align="left" src="img/stardew-chicken.png" width=90/>
 
 ### Hi !
 I'm a **FullStack Web Developer** student based in **France**.
